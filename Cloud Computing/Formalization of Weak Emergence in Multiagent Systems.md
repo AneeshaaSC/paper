@@ -34,9 +34,9 @@ details corresponding to "Proposed Approach" part
 State-Space Explosion:  
 more interactions between birds lead to more emergent property states that cannot be derived by summing the independent agents’ behaviors  
 State-Space Reduction:  
-1. Lw I hole grows as expected, but soon drops -> a larger number of birds encourages more interactions  
-2. the system states due to weak interaction are small and tend to decrease with the number of birds -> the close relationship between the size of the bird population and the degree of interaction  \
-3.  Lo is small compared to Lξ -> needs to be further investigated with two possible reasons  
+(1) Lw I hole grows as expected, but soon drops -> a larger number of birds encourages more interactions  
+(2) the system states due to weak interaction are small and tend to decrease with the number of birds -> the close relationship between the size of the bird population and the degree of interaction
+(3) Lo is small compared to Lξ -> needs to be further investigated with two possible reasons  
 Result: good efficiency  
 
 ## Future work

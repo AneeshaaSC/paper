@@ -13,11 +13,11 @@ the system states of interest can be divided into
 Three types of nonstrong interactions: no interaction (individual agent behavior), interaction that has no overall effect on the system, and weak interaction  
 * Degree of Interaction Formalism:  
 D(S(t), S(0)) = DI(S(t), S(0)) + DN(S(t), S(0)).  
-![Degree of Interaction Formalism](https://github.com/VickyPapa/paper/blob/master/pic/Degree of Interaction Formalism.jpg)  
+![Degree-of-Interaction-Formalism](https://github.com/VickyPapa/paper/blob/master/pic/Degree-of-Interaction-Formalism.jpg)  
 * DN(S(t), S(0)) Calculation:  
-![DN(S(t),S(0)) Calculation](https://github.com/VickyPapa/paper/blob/master/pic/DN(S(t),S(0)) Calculation.png)  
+![DN(S(t),S(0))-Calculation](https://github.com/VickyPapa/paper/blob/master/pic/DN(S(t),S(0))-Calculation.png)  
 * DN(SE(t), SE(0)) Calculation:  
-![DN(SE(t),SE(0)) Calculation](https://github.com/VickyPapa/paper/blob/master/pic/DN(SE(t),SE(0)) Calculation.jpg)  
+![DN(SE(t),SE(0))-Calculation](https://github.com/VickyPapa/paper/blob/master/pic/DN(SE(t),SE(0))-Calculation.jpg)  
 
  
 

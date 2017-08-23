@@ -20,3 +20,7 @@ improvement: iteratively refines its predictions through message passing
 
 ## Model
 ![ArchitecturePic](https://github.com/VickyPapa/paper/blob/master/pic/SceneGraphGenerationbyIterativeMessagePassing.jpg)  
+
+## Benefit
+1. Semantic Scene Graph Generation  
+2. Support Relation Prediction  

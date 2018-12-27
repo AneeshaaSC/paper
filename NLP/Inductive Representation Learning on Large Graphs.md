@@ -39,3 +39,7 @@ can approx artitrary percision (theorem based on pooling)
 
 # Future  
 neighbors sampling function can be various  
+
+# Thinking
+Actually, it is about non-spectral approaches (compared to spectral approaches) and Transductive Learning (compared to Inductive Learning).[Ref](https://www.jianshu.com/p/f19454dc0b69)  
+
